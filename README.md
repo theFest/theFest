@@ -1,15 +1,8 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
 
+---
 # Welcome to FW's GitHub profile
-
 Here you can find various types of scripts in several languages, ci/cd pipelines, iac templates, etc.
 
 
@@ -17,8 +10,8 @@ Here you can find various types of scripts in several languages, ci/cd pipelines
 
 
 ### 🚀 About Me
-I'm a Information Technology generalist, like to thinker with SW/HW, R'n'D, Cloud, Security, etc.
-
+I'm a IT Generalist, like to thinker with SW/HW, R'n'D, Cloud, Security, etc.
+---
 
 ### 😄 Current interests and activities
 👩‍💻 Currently working on topics of Security\
@@ -30,7 +23,8 @@ I'm a Information Technology generalist, like to thinker with SW/HW, R'n'D, Clou
 
 
 ### 🛠 Skills
-Javascript, HTML, CSS, PowerShell, Python, Shell, Bicep, Terraform and many more...
+
+Azure, AWS, GitHub Actions, Javascript, HTML, CSS, PowerShell, Python, Shell, Bicep, Terraform and many more...
 
 
 ![Logo](https://topisraelinterns.com/wp-content/uploads/2015/12/future.jpg)
