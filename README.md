@@ -1,3 +1,13 @@
+<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<a name="readme-top"></a>
+<!--
+*** Thanks for checking out the Best-README-Template. If you have a suggestion
+*** that would make this better, please fork the repo and create a pull request
+*** or simply open an issue with the tag "enhancement".
+*** Don't forget to give the project a star!
+*** Thanks again! Now go create something AMAZING! :D
+-->
+
 # Welcome to FW's GitHub profile
 
 Here you can find various types of scripts in several languages, ci/cd pipelines, iac templates, etc.
@@ -7,7 +17,7 @@ Here you can find various types of scripts in several languages, ci/cd pipelines
 
 
 ### 🚀 About Me
-I'm a Information Technology generalist, like to thinker with SW/HW, R'n'D, Cloud, Security and more 
+I'm a Information Technology generalist, like to thinker with SW/HW, R'n'D, Cloud, Security, etc.
 
 
 ### 😄 Current interests and activities
@@ -20,11 +30,32 @@ I'm a Information Technology generalist, like to thinker with SW/HW, R'n'D, Clou
 
 
 ### 🛠 Skills
-Javascript, HTML, CSS, PowerShell, Python, Shell, Bicep, Terraform and many many more...
+Javascript, HTML, CSS, PowerShell, Python, Shell, Bicep, Terraform and many more...
+
+
+![Logo](https://topisraelinterns.com/wp-content/uploads/2015/12/future.jpg)
+
+
+## Roadmap
+
+- Additional enhancements
+- More integrations with other services
+- Creating scripts in multiple languages
+
+
+## Contributing
+
+Contributions are always welcome!
+See `contributing.md` for ways to get started.
+Please adhere to this project's `code of conduct`.
+
 
 ### Badges
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/License-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
-![Logo](https://topisraelinterns.com/wp-content/uploads/2015/12/future.jpg)
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
