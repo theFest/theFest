@@ -1,4 +1,3 @@
-
 # Welcome to FW's GitHub profile
 
 Here you can find various types of scripts in several languages, ci/cd pipelines, iac templates, etc.
@@ -20,11 +19,9 @@ I'm a Information Technology generalist, like to thinker with SW/HW, R'n'D, Clou
 
 🤔 I'm looking for help with big project
 
-💬 Ask me about anything, anytime you want
+💬 Ask me about anything, anytime you want, whatever
 
-📫 Reach me via opening pull request
-
-⚡️ So many fun facts...
+📫 Reach me via either by opening pull request or email
 
 
 ## 🛠 Skills
