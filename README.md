@@ -3,34 +3,28 @@
 Here you can find various types of scripts in several languages, ci/cd pipelines, iac templates, etc.
 
 
-# 👋 Hi, I'm Fest White
+## 👋 Hi, I'm Fest White
 
 
-## 🚀 About Me
+### 🚀 About Me
 I'm a Information Technology generalist, like to thinker with SW/HW, R'n'D, Cloud, Security and more 
 
 
-## 😄 Current interests and activities
-👩‍💻 Currently working on topics of Security
-
-🧠 I'm currently learning DevSecOps
-
-👯‍♀️ Looking to collaborate on various topics
-
-🤔 I'm looking for help with big project
-
-💬 Ask me about anything, anytime you want, whatever
-
-📫 Reach me via either by opening pull request or email
+### 😄 Current interests and activities
+👩‍💻 Currently working on topics of Security\
+🧠 I'm currently learning DevSecOps\
+👯‍♀️ Looking to collaborate on various topics\
+🤔 I'm looking for help with big project\
+💬 Ask me about anything, anytime you want\
+📫 Reach me via either by opening pull request or email\
 
 
-## 🛠 Skills
+### 🛠 Skills
 Javascript, HTML, CSS, PowerShell, Python, Shell, Bicep, Terraform and many many more...
 
-
-- [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/) 
-- [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-- [![AGPL License](https://img.shields.io/badge/License-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+### Badges
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/License-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 ![Logo](https://topisraelinterns.com/wp-content/uploads/2015/12/future.jpg)
-
