@@ -14,7 +14,7 @@ I'm a IT Generalist, like to thinker with SW/HW, R'n'D, Cloud, Security, etc.
 ---
 
 ### 😄 Current interests and activities
-👩‍💻 Currently working on topics of Security\
+👩‍💻 Currently working on various topics\
 🧠 I'm currently learning DevSecOps\
 👯‍♀️ Looking to collaborate on various topics\
 🤔 I'm looking for help with big project\
@@ -24,7 +24,7 @@ I'm a IT Generalist, like to thinker with SW/HW, R'n'D, Cloud, Security, etc.
 
 ### 🛠 Skills
 
-Azure, AWS, GitHub Actions, Javascript, HTML, CSS, PowerShell, Python, Shell, Bicep, Terraform and many more...
+PowerShell, Python, Shell, Bicep, Terraform, Azure, AWS, GitHub Actions, Javascript, HTML, CSS, ...
 
 
 ![Logo](https://topisraelinterns.com/wp-content/uploads/2015/12/future.jpg)
@@ -49,7 +49,5 @@ Please adhere to this project's `code of conduct`.
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/License-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
-## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
