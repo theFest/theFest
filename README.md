@@ -19,7 +19,7 @@ I'm a IT Generalist, like to thinker with SW/HW, R'n'D, Cloud, Security, etc.
 👯‍♀️ Looking to collaborate on various topics\
 🤔 I'm looking for help with big project\
 💬 Ask me about anything, anytime you want\
-📫 Reach me via either by opening pull request or email\
+📫 Reach me via either by opening pull request or email
 
 
 ### 🛠 Skills
