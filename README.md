@@ -2,18 +2,19 @@
 <a name="readme-top"></a>
 
 
-# Welcome to FW's GitHub profile
+# Welcome to FW's GitHub profile 🚀
 Here you can find various types of scripts in several languages, ci/cd pipelines, iac templates, etc.
 
 
-## 👋 Hi, I'm Fest White
 
 
-### 🚀 About Me
-I'm a IT Generalist, like to thinker with SW/HW, R'n'D, Cloud, Security, etc.
+
+###  About Me 😄
+## Hi, I am Fest W.
+Yet another IT guy, like to thinker with SW/HW, R'n'D, Cloud, Security, etc.
 ---
 
-### 😄 Current interests and activities
+### 👋 Current interests and activities
 👩‍💻 Currently working on various topics\
 🧠 I'm currently learning DevSecOps\
 👯‍♀️ Looking to collaborate on various topics\
@@ -24,7 +25,7 @@ I'm a IT Generalist, like to thinker with SW/HW, R'n'D, Cloud, Security, etc.
 
 ### 🛠 Skills
 
-PowerShell, Python, Shell, Bicep, Terraform, Azure, AWS, GitHub Actions, Javascript, HTML, CSS, ...
+PowerShell, Python, Shell, Bicep, Terraform, Azure, AWS, GitHub Actions, HTML, CSS, Js...
 
 
 ![Logo](https://topisraelinterns.com/wp-content/uploads/2015/12/future.jpg)
